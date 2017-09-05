@@ -37,6 +37,13 @@ Tools:
         Mosh
         Vim
         NMAP
+        aircrack-ng
+        dirb
+        dnsrecon
+        fuzzdb
+        wfuzz
+        wpscan
 
     MPTT Installed: 
+        metasploit-framework
 
