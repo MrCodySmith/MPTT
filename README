@@ -1,0 +1,42 @@
+----------------------------------------------------------------
+
+                           t                           
+                ..       : ED.      GEEEEEEEL GEEEEEEEL
+               ,W,     .Et E#K:     ,;;L#K;;. ,;;L#K;;.
+              t##,    ,W#t E##W;       t#E       t#E   
+             L###,   j###t E#E##t      t#E       t#E   
+           .E#j##,  G#fE#t E#ti##f     t#E       t#E   
+          ;WW; ##,:K#i E#t E#t ;##D.   t#E       t#E   
+         j#E.  ##f#W,  E#t E#ELLE##K:  t#E       t#E   
+       .D#L    ###K:   E#t E#L;;;;;;,  t#E       t#E   
+      :K#t     ##D.    E#t E#t         t#E       t#E   
+      ...      #G      ..  E#t          fE        fE   
+               j                         :         :   
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+              The Mac Penetration Testing Toolkit
+                    By: @MrCodyASmith
+                      Version: 0.0.1
+----------------------------------------------------------------
+
+The goal of the Mac Pentration Testing Toolkit is to provide
+several basic penetration testing tools that can be used on 
+macOS. This toolkit is in ( very ) early alpha, as are some 
+of the home-grown tools in it. 
+
+Note: MPTT Utilizes HomeBrew for some toolkit installs. 
+Running mptt --homebrew will install HomeBrew for you. 
+
+----------------------------------------------------------------
+
+Tools: 
+
+    Brew Installed:
+        Mosh
+        Vim
+        NMAP
+
+    MPTT Installed: 
+
