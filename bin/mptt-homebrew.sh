@@ -1,6 +1,6 @@
 #/bin/sh
 
-main(){
+install_homebrew(){
 
     echo "Installing Homebrew: The Missing Package Manager for macOS"
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -8,4 +8,8 @@ main(){
 
 }
 
-main
+main(){
+
+    echo "Mac Penetration Testing Toolkit"
+
+}
